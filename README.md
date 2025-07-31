@@ -24,7 +24,7 @@
 ---
 
 ### 📫 Let's Connect
-[LinkedIn](www.linkedin.com/in/amitchawla-dev)
+LinkedIn: (www.linkedin.com/in/amitchawla-dev)
 🌍 GitHub: [github.com/amitchawla](https://github.com/amit-chawla-12)
 
 ---
